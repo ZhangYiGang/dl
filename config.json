@@ -1,0 +1,11 @@
+{
+  "single": "C:\\Users\\zhangyigang\\Desktop\\dl\\汉语.xlsx",
+  "logLevel":10,
+  "logFilePath": "log\\test.log",
+  "isTranslate": false,
+  "keywordPain": ["问题二", "问题三"],
+  "replaceWords": {"0":"零" ,"1": "一", "2": "二", "3": "三", "4": "四"},
+  "score": {"0":["零", "没有"], "1": ["一"], "2": ["二"], "3": ["三"], "4": ["四"]},
+  "tenPainWord": [["疼痛","身体"],["气短"], ["疲乏"], ["恶心"],["吐"],["食欲不振"], ["便秘"], ["喉咙干渴"], ["嗜睡"], ["手脚的活动"]]
+
+}
